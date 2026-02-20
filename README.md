@@ -3,8 +3,8 @@
 ShopZone is a modern, responsive e-commerce web application built with React and Vite.  
 It features a clean hero section with a video background, an AI-inspired ad generation workflow, a product catalog from DummyJSON API, and a minimal contact form.
 
-# Vercel: https://shopzone-omega.vercel.app/
-# Live-Server Domain: https://vercel.com/an7708s-projects/shopzone
+Vercel: https://shopzone-omega.vercel.app/
+Live-Server Domain: https://vercel.com/an7708s-projects/shopzone
 
 ## Features
 
