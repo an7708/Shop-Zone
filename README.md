@@ -111,9 +111,4 @@ git commit -m "Update README with full project documentation."
 git push origin main
 ```
 
-Refresh https://github.com/an7708/Shop-Zone — the new README will appear on the main page.
 
-Now your repository looks professional and complete.  
-Next you can deploy to Vercel (set Root Directory = `shopzone` during import).
-
-Let me know if you want to add badges, screenshots, live demo link, or any other section.
