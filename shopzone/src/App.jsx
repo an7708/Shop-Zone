@@ -7,6 +7,9 @@ import Contact from "./pages/Contact";
 import Video from "./components/Video";
 
 
+import Cart from './context/CartContext.jsx'
+
+
 // import { useState } from 'react'
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
@@ -21,6 +24,7 @@ function App() {
         <Route path="/shop" element={<Shop />} />
         <Route path="/product/:id" element={<ProductDetails />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/cart" element={<Cart />} />
       </Routes>
       {/* <Video /> */}
     </>
